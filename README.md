@@ -1,3 +1,3 @@
 # CS230-Wiki
 A. Voltra
-B. Our main goal as a tech startup is to become the leading company in which sustainable energy systems are used/developed among other big name companies and are sourced by us. 
+B. Our main goal as a tech startup is to become the leading company in which sustainable energy systems are used/developed among other big name companies and are sourced by us. In the next couple of years, we envision a world where businesses, corporations, households, etc., are utilizing our advanced energy systems and can be accessible to a wide variety of customers with different plans that fit your needs best. We are eager to develop our technology exponentially in order to provide the most efficient energy systems at affordable prices. It is important as a company within our niche to educate communities about our product and establish a mutual understanding of our affordable plans as well as how their transition to renewable resources will be.
